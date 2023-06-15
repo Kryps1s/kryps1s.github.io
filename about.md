@@ -8,7 +8,7 @@ Hi, I'm Elliot! I was born and raised in Buffalo, New York but since 2018 I have
 
 ### Non Coding Hobbies/Personal Achievements
 
-- **beekeeping** 🐝: Involved in a beekeeping collective funded by a community organization that provides meals-on-wheels service to the elderly. Our bees pollinate a rooftop hydroponic garden that is used in the meals, how cool is that!?  
+- **beekeeping** 🐝: Involved in a beekeeping collective funded by a community organization that provides a meals-on-wheels service to the elderly. Our bees pollinate a rooftop hydroponic garden that is used in the meals, how cool is that!?  
 - **running** 🏅: 2022 Montreal Marathon Finisher 4:26:45 
 - **chess nerd** ♟️: [my chess.com profile](https://www.chess.com/member/petriecat)
 - **wannabe polyglot** 🌎 : English ⭐⭐⭐⭐⭐ French ⭐⭐⭐⭐ Mandarin ⭐
