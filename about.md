@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Elliot! I was born and raised in Buffalo, New York but since 2018 I have been living in the incredible city of Montreal, Canada. I moved here because I was teaching myself french for fun, and wanted to be able to use it, and after a few visits I fell in love. I have _a lot_ of hobbies, I am always trying to push myself to do and learn new things!
+Hi, I'm Elliot! I was born and raised in Buffalo, New York but since 2018 I have been living in the incredible city of Montreal, Canada. I moved here because I was teaching myself French for fun and wanted to be able to use it, and after a few visits I fell in love. I have _a lot_ of hobbies; I am always trying to push myself to do and learn new things!
 
 ### Non Coding Hobbies/Personal Achievements
 
