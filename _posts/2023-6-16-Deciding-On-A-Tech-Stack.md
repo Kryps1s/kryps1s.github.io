@@ -53,7 +53,7 @@ Side note: I will be hosting on GitHub Pages and not using Amplify or CloudFront
   
   The CI/CD pipeline is still new to me, so this will be a learning experience for sure. GitHub Actions have a very good reputation, and I like that it is built into GitHub, where my code will be stored. I know that I want my code to have automated testing and deployment to AWS, but I am still figuring out the details of how to get it there. I can continue researching this and planning as I also plan my API, so I am not going to let it block me.
 
-# Backend
+# Back End
 
 - **Python**
   
@@ -71,7 +71,7 @@ Side note: I will be hosting on GitHub Pages and not using Amplify or CloudFront
   
   For managing logging in users. There will be no sensitive data, so I am not too concerned about the obvious vulnerability of having a public API without an API Gateway for authentication. Maybe I will regret this, but since I have cost constraints, it is a necessary evil, unless I manually authenticate every lambda, but that will slow down development time, which is also bad for my end goals.
 
-# Frontend
+# Front End
 
 There are still some uncertainties here, but I have plenty of time to do more research and decide because this will be the last part of the stack that enters development.
 
