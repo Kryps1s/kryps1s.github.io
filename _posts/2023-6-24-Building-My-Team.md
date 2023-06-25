@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Week 1 - Building my Team
+title: Week 1 - Building my Infrastructure
 ---
 
 
 
-I am no longer working on this project alone! I have been networking with four talented developers that I have worked with in the past, who are also eager to learn. Additionally, I have connected with two incredible UI/UX specialists, one of whom I am getting married to in the fall 😄. I've set up a Kanban board with some epics and created a Slack channel to ensure proper communication and track our progress as a team.
+I've set up a Kanban board with some epics to keep track of my progress and what needs to be done. I've divided the tasks into five categories:
 
 ## UX
 
